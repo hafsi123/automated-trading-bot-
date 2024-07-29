@@ -1,0 +1,9 @@
+1 install dependencies 
+2 get a binance api with a dedicated ip whitelisted .
+3 make a repository 
+4 put bin.py in the repository and will automatically create all the files needed for a full operation .
+5 run this as a background app 
+6 you will find all the csvs of the performance of each coin as :
+symbol_trade.csv exemple : RNDRUSDT_TRADE.csv 
+  it will automatically save the symbol s data as long to the trading data ull find columns like :
+symbol| entry|entry time  | exit  | exit time |Return
